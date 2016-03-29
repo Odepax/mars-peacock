@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+See http://manual.macromates.com/en/language_grammars
+See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
+
+COLOR PALETTE
+
+comment    #728083
+docstring  #26B5A3
+
+keyword    #269FD9
+symbol     #FD4040
+type       #FF942C
+string     #B4DC35
+
+background #2E2B28
+foreground #EDE7CB
+-->
+<plist version="1.0">
+<dict>
+<key>name</key>
+<string>Mars Peacock</string>
+<key>settings</key>
+<array>
+
+<!--    GLOBAL SETTINGS
+----------------------------------------------------------------- -->
+<dict>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+		<key>background</key><string>#2E2B28</string>
+
+		<key>caret</key><string>#EDE7CB</string>
+		<key>lineHighlight</key><string>#1E1B18</string>
+
+		<key>selection</key><string>#9D550F88</string>
+		<key>selectionBorder</key><string>#222222</string>
+
+		<key>findHighlight</key><string>#FFE792</string>
+		<key>findHighlightForeground</key><string>#000000</string>
+
+		<key>guide</key><string>#77777788</string>
+		<key>activeGuide</key><string>#9D550F88</string>
+
+		<key>tagsOptions</key><string>stippled_underline</string>
+
+		<key>bracketsForeground</key><string>#F8F8F2A5</string>
+		<key>bracketsOptions</key><string>underline</string>
+
+		<key>bracketContentsForeground</key><string>#F8F8F2A5</string>
+		<key>bracketContentsOptions</key><string>underline</string>
+	</dict>
+</dict>
+
+<!--    COMMENT
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>comment</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#728083</string>
+	</dict>
+</dict>
+
+<!--    CONSTANT
+----------------------------------------------------------------- -->
+<!--
+constant.numeric: 42, 1.3f, 0x4AB1U
+constant.character: &lt;, \e, \031
+constant.language: true, false, nil, yes, no, etc
+constant.other: colors in CSS
+-->
+<dict>
+	<key>scope</key><string>constant</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+
+<!--    ENTITY
+----------------------------------------------------------------- -->
+<!--
+entity
+entity.name
+entity.name.function
+entity.name.type: classes / interfaces
+entity.name.tag: <html>
+entity.name.section
+entity.other
+entity.other.inherited-class: classes / interfaces
+entity.other.attribute-name: html attributes
+-->
+<dict>
+	<key>scope</key><string>entity</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+
+<!--    INVALID
+----------------------------------------------------------------- -->
+<!--
+invalid.illegal: & or < in HTML
+invalid.deprecated
+-->
+<dict>
+	<key>scope</key><string>invalid</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#2E2B28</string>
+		<key>background</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    KEYWORD
+----------------------------------------------------------------- -->
+<!--
+keyword.control: if, try, continue, while, return
+keyword.operator: &&, or, <<, +, *, ->
+keyword.other
+-->
+<dict>
+	<key>scope</key><string>keyword</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+
+<!--    MARKUP
+----------------------------------------------------------------- -->
+<!--
+markup.underline
+markup.underline.link
+markup.heading: # foo
+markup.italic: _foo_
+markup.bold: __foo__
+markup.list
+markup.list.numbered
+markup.list.unnumbered
+markup.quote: > foo
+markup.raw: `foo`, ``` foo ```
+markup.other
+-->
+<dict>
+	<key>scope</key><string>markup</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+
+<!--    STORAGE
+----------------------------------------------------------------- -->
+<!--
+storage.type: class, function, int, var
+storage.modifier: static, final, abstract
+-->
+<dict>
+	<key>scope</key><string>storage</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
+<!--    STRING
+----------------------------------------------------------------- -->
+<!--
+string.quoted
+string.quoted.single
+string.quoted.double
+string.quoted.triple: """Python docstring"""
+string.quoted.other: $'shell', %s{...}
+string.unquoted: here-docs
+string.interpolated: `ls`, $(pwd).
+string.regexp: /(\w+)/
+string.other
+-->
+<dict>
+	<key>scope</key><string>string</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+
+<!--    VARIABLE
+----------------------------------------------------------------- -->
+<!--
+variable.parameter
+variable.language: this, super, self
+variable.other: $x
+-->
+<dict>
+	<key>scope</key><string>variable</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+
+<!--    META
+----------------------------------------------------------------- -->
+<!--
+meta.function
+-->
+
+<!--    SUPPORT
+----------------------------------------------------------------- -->
+<!--
+support: * from framework / library
+support.function
+support.class
+support.type
+support.constant
+support.variable
+support.other
+-->
+
+<!-- >> ADDITIONS << -->
+
+</array>
+<key>uuid</key>
+<string>53F7AEA9-E40C-A75F-A325-D093843EE2EA</string>
+</dict>
+</plist>
