@@ -222,6 +222,37 @@ support.variable
 support.other
 -->
 
+<!--    CSS ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>support.type.property-name.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.constant.property-value.css, support.constant.font-name.css, support.constant.color.w3c-standard-color-name.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.misc.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>punctuation.definition.entity.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
 <!--    XML / SVG / HTML ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
