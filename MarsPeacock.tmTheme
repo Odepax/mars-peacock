@@ -222,6 +222,16 @@ support.variable
 support.other
 -->
 
+<!--    XML / SVG / HTML ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>punctuation.definition.tag</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
 <!--    MARKDOWN ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
