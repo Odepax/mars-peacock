@@ -222,6 +222,58 @@ support.variable
 support.other
 -->
 
+<!--    SCSS ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>support.type.property-name.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.constant.property-value.scss, support.constant.font-name.scss, support.constant.color.w3c-standard-color-name.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.misc.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>punctuation.definition.entity.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.scss variable, variable.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>variable.interpolation.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>variable.parameter.url.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+
 <!--    CSS ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>

@@ -23,3 +23,7 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 ### CSS
 
 ![Mars Peacock Preview](README.img/preview-css.png)
+
+### SCSS
+
+![Mars Peacock Preview](README.img/preview-scss.png)
