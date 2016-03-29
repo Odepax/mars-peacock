@@ -222,7 +222,64 @@ support.variable
 support.other
 -->
 
-<!-- >> ADDITIONS << -->
+<!--    MARKDOWN ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>punctuation.definition.heading.markdown</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.dummy.line-break</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key><string>#728083</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.separator.markdown</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#728083</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.italic</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.bold</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.quote</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.raw</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.underline.link</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
 
 </array>
 <key>uuid</key>
