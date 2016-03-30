@@ -222,6 +222,58 @@ support.variable
 support.other
 -->
 
+<!--    BRACKETHIGHLIGHTER ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>brackethighlighter.curly</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.round</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.square</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.tag</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.angle</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.quote</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.unmatched</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
 <!--    GITGUTTER ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
