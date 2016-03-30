@@ -222,6 +222,44 @@ support.variable
 support.other
 -->
 
+<!--    PHP ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>variable.other.php, variable.other.property.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.construct.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.php variable.other.global</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.class.php, support.other.namespace.use.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.magic.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
 <!--    JAVASCRIPT ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>

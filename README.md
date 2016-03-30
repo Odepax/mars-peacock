@@ -31,3 +31,7 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 ### JAVASCRIPT
 
 ![Mars Peacock Preview](README.img/preview-javascript.png)
+
+### PHP
+
+![Mars Peacock Preview](README.img/preview-php.png)
