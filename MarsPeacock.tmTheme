@@ -422,7 +422,7 @@ support.other
 	<key>scope</key><string>source.scss variable, variable.scss</string>
 	<key>settings</key>
 	<dict>
-		<key>foreground</key><string>#FD4040</string>
+		<key>foreground</key><string>#EDE7CB</string>
 	</dict>
 </dict>
 <dict>
