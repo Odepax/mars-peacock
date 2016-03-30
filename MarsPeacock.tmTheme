@@ -287,14 +287,14 @@ support.other
 	<key>scope</key><string>source.js support.type.object</string>
 	<key>settings</key>
 	<dict>
-		<key>foreground</key><string>#269FD9</string>
+		<key>foreground</key><string>#FD4040</string>
 	</dict>
 </dict>
 <dict>
 	<key>scope</key><string>source.js variable.language</string>
 	<key>settings</key>
 	<dict>
-		<key>foreground</key><string>#269FD9</string>
+		<key>foreground</key><string>#FD4040</string>
 	</dict>
 </dict>
 
