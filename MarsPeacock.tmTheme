@@ -222,6 +222,44 @@ support.variable
 support.other
 -->
 
+<!--    JAVASCRIPT ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>source.js variable</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>variable.function.constructor.js, variable.other.class.js, source.js support.class</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>punctuation.separator.key-value.js</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.js support.type.object</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.js variable.language</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+
 <!--    SCSS ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
