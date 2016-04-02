@@ -94,7 +94,7 @@ entity.other.inherited-class: classes / interfaces
 entity.other.attribute-name: html attributes
 -->
 <dict>
-	<key>scope</key><string>entity</string>
+	<key>scope</key><string>entity, support.class, support.type</string>
 	<key>settings</key>
 	<dict>
 		<key>foreground</key><string>#FF942C</string>
@@ -197,10 +197,10 @@ variable.language: this, super, self
 variable.other: $x
 -->
 <dict>
-	<key>scope</key><string>variable</string>
+	<key>scope</key><string>variable.language</string>
 	<key>settings</key>
 	<dict>
-		<key>foreground</key><string>#269FD9</string>
+		<key>foreground</key><string>#FD4040</string>
 	</dict>
 </dict>
 
@@ -315,13 +315,6 @@ support.other
 <!--    PHP ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
-	<key>scope</key><string>variable.other.php, variable.other.property.php</string>
-	<key>settings</key>
-	<dict>
-		<key>foreground</key><string>#EDE7CB</string>
-	</dict>
-</dict>
-<dict>
 	<key>scope</key><string>support.function.construct.php</string>
 	<key>settings</key>
 	<dict>
@@ -336,7 +329,7 @@ support.other
 	</dict>
 </dict>
 <dict>
-	<key>scope</key><string>support.class.php, support.other.namespace.use.php</string>
+	<key>scope</key><string>support.other.namespace.use.php</string>
 	<key>settings</key>
 	<dict>
 		<key>foreground</key><string>#FF942C</string>
@@ -353,14 +346,7 @@ support.other
 <!--    JAVASCRIPT ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
-	<key>scope</key><string>source.js variable</string>
-	<key>settings</key>
-	<dict>
-		<key>foreground</key><string>#EDE7CB</string>
-	</dict>
-</dict>
-<dict>
-	<key>scope</key><string>variable.function.constructor.js, variable.other.class.js, source.js support.class</string>
+	<key>scope</key><string>variable.function.constructor.js, variable.other.class.js</string>
 	<key>settings</key>
 	<dict>
 		<key>foreground</key><string>#FF942C</string>
@@ -375,13 +361,6 @@ support.other
 </dict>
 <dict>
 	<key>scope</key><string>source.js support.type.object</string>
-	<key>settings</key>
-	<dict>
-		<key>foreground</key><string>#FD4040</string>
-	</dict>
-</dict>
-<dict>
-	<key>scope</key><string>source.js variable.language</string>
 	<key>settings</key>
 	<dict>
 		<key>foreground</key><string>#FD4040</string>
@@ -416,13 +395,6 @@ support.other
 	<key>settings</key>
 	<dict>
 		<key>foreground</key><string>#FD4040</string>
-	</dict>
-</dict>
-<dict>
-	<key>scope</key><string>source.scss variable, variable.scss</string>
-	<key>settings</key>
-	<dict>
-		<key>foreground</key><string>#EDE7CB</string>
 	</dict>
 </dict>
 <dict>
