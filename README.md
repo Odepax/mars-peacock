@@ -2,8 +2,6 @@
 
 Mars Peacock is a tiny dark syntax color scheme for Sublime Text. It's tweaked of Peacock theme.
 
-![Mars Peacock Preview](README.img/preview.png)
-
 ## Install
 
 This color scheme has been tested with Sublime Text 3 (build 3103).
@@ -14,28 +12,28 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 
 ### Markdown
 
-![Mars Peacock Preview](README.img/preview-markdown.png)
+![Mars Peacock Markdown syntax highlight](README.img/preview-markdown.png)
 
 ### HTML
 
-![Mars Peacock Preview](README.img/preview-html.png)
+![Mars Peacock HTML syntax highlight](README.img/preview-html.png)
 
 ### CSS
 
-![Mars Peacock Preview](README.img/preview-css.png)
+![Mars Peacock CSS syntax highlight](README.img/preview-css.png)
 
 ### Scss
 
-![Mars Peacock Preview](README.img/preview-scss.png)
+![Mars Peacock Scss syntax highlight](README.img/preview-scss.png)
 
 ### Javascript
 
-![Mars Peacock Preview](README.img/preview-javascript.png)
+![Mars Peacock Javascript syntax highlight](README.img/preview-javascript.png)
 
 ### PHP
 
-![Mars Peacock Preview](README.img/preview-php.png)
+![Mars Peacock PHP syntax highlight](README.img/preview-php.png)
 
 ### Java
 
-![Mars Peacock Preview](README.img/preview-java.png)
+![Mars Peacock Java syntax highlight](README.img/preview-java.png)
