@@ -222,6 +222,44 @@ support.variable
 support.other
 -->
 
+<!--    JAVA ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>storage.modifier.import.java</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.java storage.type</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>entity.name.function.java</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>comment.block.documentation.javadoc keyword.other.documentation</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>storage.type.annotation.java</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
 <!--    BRACKETHIGHLIGHTER ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>
