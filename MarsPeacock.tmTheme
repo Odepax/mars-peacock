@@ -222,6 +222,65 @@ support.variable
 support.other
 -->
 
+<!--    C# ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>constant.language.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.new-object.source.cs storage.modifier, meta.method.body.source.cs storage.modifier</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.new-object.source.cs meta.method</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.keyword.using.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>entity.name.function.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.cs storage.type</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.method.return-type.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>comment.block.documentation.source.cs entity, comment.block.documentation.source.cs punctuation.definition.tag</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
 <!--    C++ ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>

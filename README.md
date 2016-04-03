@@ -41,3 +41,7 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 ### C++
 
 ![Mars Peacock C++ syntax highlight](README.img/preview-cpp.png)
+
+### C#
+
+![Mars Peacock C# syntax highlight](README.img/preview-cs.png)
