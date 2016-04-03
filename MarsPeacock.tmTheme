@@ -464,6 +464,13 @@ support.other
 	</dict>
 </dict>
 <dict>
+	<key>scope</key><string>keyword.other.phpdoc.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+<dict>
 	<key>scope</key><string>support.other.namespace.use.php</string>
 	<key>settings</key>
 	<dict>
