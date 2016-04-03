@@ -222,6 +222,44 @@ support.variable
 support.other
 -->
 
+<!--    C++ ADDITIONS
+----------------------------------------------------------------- -->
+<dict>
+	<key>scope</key><string>meta.class-struct-block.base-classes.c++</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>storage.type.c</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>entity.name.function.c++, entity.name.function.c</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>comment.block.documentation.javadoc keyword.other.documentation</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.function.destructor.c++ entity.name.function.c++, meta.function.constructor.c++ entity.name.function.c++</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
 <!--    JAVA ADDITIONS
 ----------------------------------------------------------------- -->
 <dict>

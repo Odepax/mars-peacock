@@ -37,3 +37,7 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 ### Java
 
 ![Mars Peacock Java syntax highlight](README.img/preview-java.png)
+
+### C++
+
+![Mars Peacock C++ syntax highlight](README.img/preview-cpp.png)
