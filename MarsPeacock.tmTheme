@@ -111,7 +111,6 @@ invalid.deprecated
 	<key>scope</key><string>invalid</string>
 	<key>settings</key>
 	<dict>
-		<key>foreground</key><string>#2E2B28</string>
 		<key>background</key><string>#FD4040</string>
 	</dict>
 </dict>
