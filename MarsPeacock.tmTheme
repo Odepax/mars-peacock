@@ -79,6 +79,13 @@ constant.other: colors in CSS
 		<key>foreground</key><string>#B4DC35</string>
 	</dict>
 </dict>
+<dict>
+	<key>scope</key><string>constant.other.placeholder, constant.character.escape</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
 
 <!--    ENTITY
 ----------------------------------------------------------------- -->
