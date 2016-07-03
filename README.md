@@ -12,36 +12,36 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 
 ### Markdown
 
-![Mars Peacock Markdown syntax highlight](README.img/preview-markdown.png)
+![Mars Peacock Markdown syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-markdown.png)
 
 ### HTML
 
-![Mars Peacock HTML syntax highlight](README.img/preview-html.png)
+![Mars Peacock HTML syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-html.png)
 
 ### CSS
 
-![Mars Peacock CSS syntax highlight](README.img/preview-css.png)
+![Mars Peacock CSS syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-css.png)
 
 ### Scss
 
-![Mars Peacock Scss syntax highlight](README.img/preview-scss.png)
+![Mars Peacock Scss syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-scss.png)
 
 ### Javascript
 
-![Mars Peacock Javascript syntax highlight](README.img/preview-javascript.png)
+![Mars Peacock Javascript syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-javascript.png)
 
 ### PHP
 
-![Mars Peacock PHP syntax highlight](README.img/preview-php.png)
+![Mars Peacock PHP syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-php.png)
 
 ### Java
 
-![Mars Peacock Java syntax highlight](README.img/preview-java.png)
+![Mars Peacock Java syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-java.png)
 
 ### C++
 
-![Mars Peacock C++ syntax highlight](README.img/preview-cpp.png)
+![Mars Peacock C++ syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-cpp.png)
 
 ### Csharp
 
-![Mars Peacock C# syntax highlight](README.img/preview-cs.png)
+![Mars Peacock C# syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-cs.png)
