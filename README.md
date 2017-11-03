@@ -1,4 +1,4 @@
-# Mars Peacock Sublime Color Scheme
+# Mars Peacock - Sublime Color Scheme
 
 Mars Peacock is a tiny dark syntax color scheme for Sublime Text. It's tweaked of Peacock theme.
 
@@ -10,38 +10,39 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 
 ## Preview
 
-### Markdown
+### Java
 
-![Mars Peacock Markdown syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-markdown.png)
+![Mars Peacock Java syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-java.png)
 
-### HTML
+### XML
 
-![Mars Peacock HTML syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-html.png)
-
-### CSS
-
-![Mars Peacock CSS syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-css.png)
-
-### Scss
-
-![Mars Peacock Scss syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-scss.png)
-
-### Javascript
-
-![Mars Peacock Javascript syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-javascript.png)
+![Mars Peacock HTML syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-xml.png)
 
 ### PHP
 
 ![Mars Peacock PHP syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-php.png)
 
-### Java
 
-![Mars Peacock Java syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-java.png)
+### Csharp
+
+![Mars Peacock C# syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-cs.png)
 
 ### C++
 
 ![Mars Peacock C++ syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-cpp.png)
 
-### Csharp
+### Markdown
 
-![Mars Peacock C# syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-cs.png)
+![Mars Peacock Markdown syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-md.png)
+
+### JavaScript
+
+![Mars Peacock Javascript syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-js.png)
+
+### CSS
+
+![Mars Peacock CSS syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-css.png)
+
+### SCSS
+
+![Mars Peacock Scss syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-scss.png)
