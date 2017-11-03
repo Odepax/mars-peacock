@@ -205,8 +205,8 @@ $languages = [
 			"punctuation.definition.character-class.regexp"
 		],
 		"programming:type" => [
-			"source.js meta.class.js meta.block.js meta.block.js meta.instance.constructor.js meta.function-call.constructor.js variable.type.js",
-			"source.js meta.class.js meta.block.js meta.block.js support.class.js",
+			"source.js variable.type",
+			"source.js support.class",
 		],
 		"programming:symbol" => [
 			"constant.other.character-class.escape.backslash.regexp"
