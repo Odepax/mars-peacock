@@ -202,6 +202,8 @@ $languages = [
 		],
 		"programming:namespace" => [
 			"source.json meta.structure.dictionary.key string",
+			"source.js meta.object-literal.key",
+			"source.js meta.object-literal.key string",
 			"punctuation.definition.character-class.regexp"
 		],
 		"programming:type" => [
@@ -216,6 +218,9 @@ $languages = [
 			"source.js support.type.object.console",
 			"source.json constant.language",
 			"punctuation.definition.group.regexp"
+		],
+		"programming:punctuation" => [
+			"source.js meta.object-literal punctuation.separator.key-value"
 		]
 	],
 	"PHP" => [

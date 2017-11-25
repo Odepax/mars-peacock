@@ -51,7 +51,7 @@ See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
 									<key>foreground</key><string>#FEA92C</string>							</dict>
 		</dict>
 				<dict>
-			<key>scope</key><string>text.xml entity.name.tag.namespace, text.xml entity.other.attribute-name.namespace, source.json meta.structure.dictionary.key string, punctuation.definition.character-class.regexp, source.php entity.name.namespace, source.php support.other.namespace, source.java support.other.package, source.java support.class.import, source.cs entity.name.namespace, source.cs meta.path, meta.link.inline.description, meta.image.inline.description</string>
+			<key>scope</key><string>text.xml entity.name.tag.namespace, text.xml entity.other.attribute-name.namespace, source.json meta.structure.dictionary.key string, source.js meta.object-literal.key, source.js meta.object-literal.key string, punctuation.definition.character-class.regexp, source.php entity.name.namespace, source.php support.other.namespace, source.java support.other.package, source.java support.class.import, source.cs entity.name.namespace, source.cs meta.path, meta.link.inline.description, meta.image.inline.description</string>
 			<key>settings</key>
 			<dict>
 									<key>foreground</key><string>#1DD494</string>							</dict>
@@ -81,7 +81,7 @@ See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
 									<key>foreground</key><string>#FFF086</string>							</dict>
 		</dict>
 				<dict>
-			<key>scope</key><string>punctuation, source.css punctuation.separator.key-value, source.css punctuation.terminator.rule, source.css punctuation.section.property-list, source.css punctuation.definition.group, source.css punctuation.definition.entity, source.scss punctuation.separator.key-value, source.scss punctuation.terminator.rule, source.scss punctuation.section.property-list, source.scss punctuation.section.function, source.scss punctuation.definition.entity</string>
+			<key>scope</key><string>punctuation, source.css punctuation.separator.key-value, source.css punctuation.terminator.rule, source.css punctuation.section.property-list, source.css punctuation.definition.group, source.css punctuation.definition.entity, source.scss punctuation.separator.key-value, source.scss punctuation.terminator.rule, source.scss punctuation.section.property-list, source.scss punctuation.section.function, source.scss punctuation.definition.entity, source.js meta.object-literal punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
 									<key>foreground</key><string>#B8B9A9</string>							</dict>
