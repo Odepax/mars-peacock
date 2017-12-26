@@ -204,6 +204,7 @@ $languages = [
 			"source.json meta.structure.dictionary.key string",
 			"source.js meta.object-literal.key",
 			"source.js meta.object-literal.key string",
+			"source.js meta.object-literal.key constant.numeric",
 			"punctuation.definition.character-class.regexp"
 		],
 		"programming:type" => [
