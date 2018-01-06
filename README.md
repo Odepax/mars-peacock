@@ -37,7 +37,7 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 
 ### JavaScript
 
-![Mars Peacock Javascript syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-jd.png)
+![Mars Peacock Javascript syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-js.png)
 
 ### CSS
 
