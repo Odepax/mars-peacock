@@ -22,7 +22,6 @@ To perform the installation: download `MarsPeacock.tmTheme` from this repository
 
 ![Mars Peacock PHP syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-php.png)
 
-
 ### Csharp
 
 ![Mars Peacock C# syntax highlight](http://aygix.free.fr/down.php?path=github/Odepax/mars-peacock/preview-cs.png)
