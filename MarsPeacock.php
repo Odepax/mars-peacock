@@ -1,10 +1,10 @@
 <?php 
 
-define("BLACK",           "#161413");
-define("DARK",            "#2E2B28");
+define("BLACK",           "#0B0A09");
+define("DARK",            "#242221");
 define("GREY",            "#85877D");
-define("LIGHT",           "#B8B9A9");
-define("WHITE",           "#EDE7CB");
+define("LIGHT",           "#C2C3BB");
+define("WHITE",           "#F3F0E2");
 
 define("RED",             "#F84439");
 define("ORANGE",          "#FEA92C");

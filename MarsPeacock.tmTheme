@@ -14,10 +14,10 @@ See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
 <dict>
 	<key>settings</key>
 	<dict>
-		<key>foreground</key><string>#EDE7CB</string>
-		<key>background</key><string>#2E2B28</string>
-		<key>caret</key><string>#EDE7CB</string>
-		<key>lineHighlight</key><string>#161413</string>
+		<key>foreground</key><string>#F3F0E2</string>
+		<key>background</key><string>#242221</string>
+		<key>caret</key><string>#F3F0E2</string>
+		<key>lineHighlight</key><string>#0B0A09</string>
 		<key>selection</key><string>#9D550F88</string>
 		<key>selectionBorder</key><string>#222222</string>
 		<key>findHighlight</key><string>#FFE792</string>
@@ -84,7 +84,7 @@ See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
 			<key>scope</key><string>punctuation, source.css punctuation.separator.key-value, source.css punctuation.terminator.rule, source.css punctuation.section.property-list, source.css punctuation.definition.group, source.css punctuation.definition.entity, source.scss punctuation.separator.key-value, source.scss punctuation.terminator.rule, source.scss punctuation.section.property-list, source.scss punctuation.section.function, source.scss punctuation.definition.entity, source.js meta.object-literal punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
-									<key>foreground</key><string>#B8B9A9</string>							</dict>
+									<key>foreground</key><string>#C2C3BB</string>							</dict>
 		</dict>
 				<dict>
 			<key>scope</key><string>source.php keyword.other.phpdoc, source.java keyword.other.documentation, source.java variable.annotation, source.cs variable.annotation, source.cs comment.block.documentation entity.name.tag, source.cs comment.block.documentation entity.other.attribute-name</string>
@@ -102,7 +102,7 @@ See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
 			<key>scope</key><string>source.cs comment.block.documentation string</string>
 			<key>settings</key>
 			<dict>
-									<key>foreground</key><string>#B8B9A9</string>							</dict>
+									<key>foreground</key><string>#C2C3BB</string>							</dict>
 		</dict>
 				<dict>
 			<key>scope</key><string>markup.italic</string>
