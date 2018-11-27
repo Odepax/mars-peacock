@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 require_once "lib/Color.php";
 require_once "lib/FontStyle.php";
@@ -26,8 +26,8 @@ $theme->colors["white"] = Color::hexa("#F3F0E2");
 $theme->colors["light"] = Color::hexa("#C2C3BB");
 $theme->colors["grey"] = Color::hexa("#85877D");
 $theme->colors["alphaGrey"] = Color::hexa("#85877D44");
-$theme->colors["dark"] = Color::hexa("#242221");
-$theme->colors["black"] = Color::hexa("#0B0A09");
+$theme->colors["dark"] = Color::hexa("#1D1B1A");
+$theme->colors["black"] = Color::hexa("#090807");
 
 $theme->globals(function ($globals) {
 	$globals->background = "dark";
@@ -140,7 +140,7 @@ section("Scopes Mapping", function () use ($theme) {
 	$theme->map("Concrete Types", [ "entity.name.class", "entity.name.function.constructor", "support.type", "support.class", "variable.type", "entity.name.tag", "string.regexp constant.other.character-class", "meta.function.return-type" ]);
 	$theme->map("Abstract Types", [ "entity.name.interface" ]);
 	$theme->map("Inherited Types", [ "entity.other.inherited-class" ]);
-	$theme->map("Members", [ "entity.other.attribute-name", "variable.other.member", "meta.property", "meta.object-literal.key string", "meta.structure.dictionary.key string", "support.type.property-name" ]);
+	$theme->map("Members", [ "entity.other.attribute-name", "variable.other.member", "meta.property", "meta.object-literal.key", "meta.object-literal.key string", "meta.structure.dictionary.key", "meta.structure.dictionary.key string", "support.type.property-name" ]);
 	$theme->map("Function Calls", [ "variable.function", "support.function" ]);
 	$theme->map("Namespaces", [ "entity.name.namespace", "support.module", "entity.other.attribute-name.namespace" ]);
 	$theme->map("Invalids", [ "invalid" ]);
