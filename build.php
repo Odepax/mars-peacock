@@ -122,7 +122,11 @@ section("Programming", function () use ($theme) {
 
 	$theme->rule("Namespaces", function ($style) {
 		$style->foreground = "purple";
-		$style->fontStyle = FontStyle::BOLD;
+	});
+
+	$theme->rule("Metadata", function ($style) {
+		$style->foreground = "purple";
+		$style->fontStyle = FontStyle::ITALIC;
 	});
 
 	$theme->rule("Invalids", function ($style) {
@@ -133,7 +137,7 @@ section("Programming", function () use ($theme) {
 });
 
 section("Scopes Mapping", function () use ($theme) {
-	$theme->map("Comments", [ "comment", "punctuation.definition.comment", "meta.toc-list" ]);
+	$theme->map("Comments", [ "comment", "punctuation.definition.comment" ]);
 	$theme->map("Punctuation Symbols", [ "punctuation", "constant.character.escape", "constant.other.placeholder", "keyword.operator", "punctuation.definition.keyword", "markup.list.numbered.bullet" ]);
 	$theme->map("Constants", [ "constant", "support.constant", "string" ]);
 	$theme->map("Keywords", [ "keyword", "constant.language", "storage", "variable.language", "support.constant.prototype", "string.regexp punctuation.definition.group", "entity.other.pseudo-class", "entity.other.pseudo-element" ]);
@@ -142,7 +146,8 @@ section("Scopes Mapping", function () use ($theme) {
 	$theme->map("Inherited Types", [ "entity.other.inherited-class" ]);
 	$theme->map("Members", [ "entity.other.attribute-name", "variable.other.member", "meta.property", "meta.object-literal.key", "meta.object-literal.key string", "meta.structure.dictionary.key", "meta.structure.dictionary.key string", "support.type.property-name" ]);
 	$theme->map("Function Calls", [ "variable.function", "support.function" ]);
-	$theme->map("Namespaces", [ "entity.name.namespace", "support.module", "entity.other.attribute-name.namespace" ]);
+	$theme->map("Namespaces", [ "entity.name.namespace", "support.module", "entity.other.attribute-name.namespace", "entity.name.tag.namespace" ]);
+	$theme->map("Metadata", [ "variable.annotation" ]);
 	$theme->map("Invalids", [ "invalid" ]);
 
 	$theme->map("Diff: Deleted", [ "markup.deleted" ]);
