@@ -1,4 +1,7 @@
-# Mars Peacock - Sublime Color Scheme
+![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-green.svg?style=for-the-badge)
+![Arts License: CC-BY](https://img.shields.io/badge/Arts%20License-CC%20BY-orange.svg?style=for-the-badge)
+
+# Mars Peacock &mdash; Sublime Color Scheme
 
 _Mars Peacock_ is a tiny dark syntax color scheme for Sublime Text. It's tweaked of _Peacock_ theme.
 
